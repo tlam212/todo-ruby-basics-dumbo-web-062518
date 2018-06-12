@@ -25,5 +25,6 @@ def last_evaluated_value
 end
 
 def pizza_party(phrase = "cheese")
+puts phrase
 end
 pizza_party("pepperoni")
