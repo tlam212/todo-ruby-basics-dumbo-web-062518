@@ -26,4 +26,4 @@ end
 
 def pizza_party(phrase = "cheese")
 end
-pizza_party
+pizza_party("pepperoni")
