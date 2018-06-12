@@ -26,4 +26,6 @@ end
 
 def pizza_party(phrase = "cheese")
  "cheese"
+ return phrase
 end
+pizza_party("pepperoni")
